@@ -12,7 +12,7 @@ Please see [CONTRIBUTING](https://github.com/naughtyspirit/awesome-ios-dev-tools
 
 ## App Store Submition
 
-- [ui-screen-shooter](https://github.com/jonathanpenn/ui-screen-shooter) - Automatically generate all screenshots of your iOS app.
+- [ui-screen-shooter](https://github.com/jonathanpenn/ui-screen-shooter) - Automatically generate all screenshots for your iOS app.
 
 
 ## License
