@@ -9,6 +9,9 @@ Please see [CONTRIBUTING](https://github.com/naughtyspirit/awesome-ios-dev-tools
 
 - [FlatUIKit](https://github.com/Grouper/FlatUIKit) - A collection of awesome flat UI components for iOS.
 - [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) - An elegant messages UI library for iOS
+- [MosaicLayout](https://github.com/betzerra/MosaicLayout) - A tiled UI for iOS and iPhone
+- [LNNotificationsUI](https://github.com/LeoNatan/LNNotificationsUI) - Display notifications similar to iOS 7 and iOS 8 right in your app
+- [MAThemeKit](https://github.com/mamaral/MAThemeKit) - Create a coherent color theme throughout your app with a single line of code
 
 ## App Store Submition
 
