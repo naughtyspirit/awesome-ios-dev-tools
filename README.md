@@ -29,6 +29,10 @@ Please see [CONTRIBUTING](https://github.com/naughtyspirit/awesome-ios-dev-tools
 - [ExSwift](https://github.com/pNre/ExSwift) - A set of Swift extensions for standard types and classes.
 - [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
 
+## Charting
+
+- [PNChart](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib used in Piner and CoinsMan for iOS.
+
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
